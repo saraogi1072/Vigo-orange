@@ -1,0 +1,36 @@
+/*-----------------------------------
+	Theme Background Color 
+-------------------------------------*/
+.header-top,
+.vigo-loder,
+.services .services-box:before,
+.call-to-action .bg-green,
+.vigo-btn,
+.product-features .media:hover .product-features-img, .product-features .media:hover .media-body,
+.recommended .recommended-box:before,
+.newsletter input,
+.ingredients .active,
+.ingredients .accordion-content,
+.page-title:before,
+footer .footer-title:before,
+.testimonial .owl-dots .active,
+footer .footer-box-border:before,
+.hvr-shutter-in-horizontal:hover,
+.call-to-action{
+	background: #ff9800 !important;
+}
+
+/*-----------------------------------
+	Theme Font Color 
+-------------------------------------*/
+.green,
+.page-title .page-sub-title,
+.services .services-container-title .page-sub-title,
+.recommended .recommended-container-title .page-sub-title,
+.vigo-product .product_rating i,
+.mixitup-control-active,
+.newsletter .white-btn:hover,
+.gallery .gallery-filter-btn-group .btn-secondary:hover,
+.main-nav .current a{
+	color: #ff9800 !important;
+}
